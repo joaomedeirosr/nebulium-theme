@@ -3,6 +3,21 @@
   "displayName": "Nebulium",
   "description": "Nebulium é um tema dark inspirado no mistério cósmico e na estética da robótica futurista, perfeito para uma experiência imersiva e elegante.",
   "version": "0.0.1",
+  "publisher": "JoaoVictorRocha",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaomedeirosr/nebulium-theme"
+  },
+  "keywords": [
+    "Nebulium Theme",
+    "theme",
+    "dark theme",
+    "nebula",
+    "robotics",
+    "ai",
+    "cyberpunk",
+    "nerd"
+  ],
   "engines": {
     "vscode": "^1.95.0"
   },
