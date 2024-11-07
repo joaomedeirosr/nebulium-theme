@@ -1,0 +1,21 @@
+{
+  "name": "nebulium-theme",
+  "displayName": "Nebulium",
+  "description": "Nebulium é um tema dark inspirado no mistério cósmico e na estética da robótica futurista, perfeito para uma experiência imersiva e elegante.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nebulium Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nebulium Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
